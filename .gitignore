@@ -4,6 +4,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,java
 
 ### Java ###
+
 # Compiled class file
 *.class
 
@@ -89,3 +90,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,java
+=======
+>>>>>>> 13d7395191b4e204fe2ebfbe701e9648f6749226
